@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Arif Technologies 2019</p>
+		<p>&copy; Technologies 2019</p>
 	</footer>
 </div>
 
