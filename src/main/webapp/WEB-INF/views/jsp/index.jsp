@@ -49,7 +49,7 @@
                                     IT Services and IT Consulting
                                      Company size 51-200 employees
                                       Headquarters PUNE, Maharashtra
-                                      Type Privately Held Founded
+                                      Type Privately Held Founded.
                                                        
 
 				<a href="https://addteq.co.in/about-us.html/">about us</a>
