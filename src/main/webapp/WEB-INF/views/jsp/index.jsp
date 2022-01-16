@@ -60,7 +60,9 @@
 			
 		</div>	
 	</div>
-
+                body {
+  background-color: lightblue;
+}
 
 	<hr>
 	<footer>
