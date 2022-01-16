@@ -41,8 +41,22 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Addteq</h2>
+			<h3>The Best DevOps and Atlassian Solution Experts</h3>
+			<h4>Below are the Services provided by the AddTeq<h4>
 			<a href="https://addteq.co.in/">Your DevOps And ALM Partner</a>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+				<h5>Website https://www.addteq.co.in/
+				    Industries
+                                    IT Services and IT Consulting
+                                     Company size 51-200 employees
+                                      Headquarters PUNE, Maharashtra
+                                      Type Privately Held Founded
+                                                       
+
+				<a href="https://addteq.co.in/about-us.html/">about us</a>
+				<a href="https://in.linkedin.com/company/addteqapac">Addteq APAC Linkedin Profile</a>
+				
+				
+			
 		</div>	
 	</div>
 
