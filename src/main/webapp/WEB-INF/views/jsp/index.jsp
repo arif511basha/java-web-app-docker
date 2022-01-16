@@ -41,6 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Addteq</h2>
+			<a href="https://addteq.co.in/">Your DevOps And ALM Partner</a>
 			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
 		</div>	
 	</div>
