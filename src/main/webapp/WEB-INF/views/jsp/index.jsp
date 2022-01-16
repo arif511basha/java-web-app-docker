@@ -52,7 +52,7 @@
                                       Type Privately Held Founded
                                                        
 
-				<a href="https://addteq.co.in/about-us.html/">about us</a>
+				<a href="https://addteq.co.in/about-us.html/">about u</a>
 				<a href="https://in.linkedin.com/company/addteqapac">Addteq APAC Linkedin Profile</a>
 				
 				
