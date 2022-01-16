@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + Spring MVC</title>
+<title>WELCOME TO ADDTEQ</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Project Name</a>
+			<a class="navbar-brand" href="#">Addteq Software India Pvt Ltd</a>
 		</div>
 	</div>
 </nav>
@@ -63,7 +63,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Devops Technologies 2019</p>
+		<p>&copy; Devops Technologies 2021</p>
 	</footer>
 </div>
 
